@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>CYF</name>
+      <longname>Cyclic Forces</longname>
+      <settype>Cyclic Forces</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Seasoned Mercenary</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+Time = 0
+Attack = 1
+Defense = 1
+Seasoned Mercenary taps for any season Mana while in your sanctum.</text>
+    </card>
+    <card>
+      <name>Weathered Mercenary</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+Time = 0
+Attack = 1
+Defense = 1
+Weathered Mercenary taps for any non-season Mana while in your sanctum.</text>
+    </card>
+    <card>
+      <name>Bloomgrowth Druid</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Druid</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Spring Mana
+Time = 1
+Attack = 1
+Defense = 2
+Bloomgrowth Druid taps for two Spring Mana while in your sanctum.</text>
+    </card>
+    <card>
+      <name>Enshroud</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Midnight Mana
+Reactive
+Put target card or ability on the stack into its owner’s discard pile. (Copies and abilities just disappear.)</text>
+    </card>
+    <card>
+      <name>Spring Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Spring Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Summer Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Summer Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Autumn Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Autumn Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Winter Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Winter Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Dawn Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Dawn Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Noon Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Noon Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Dusk Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Dusk Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Midnight Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Midnight Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Summer Runner</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Scout</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Summer Mana
+Time = 1
+Attack = 2
+Defense = 1
+Reactive
+Summer Runner can’t be played in combat.</text>
+    </card>
+    <card>
+      <name>Fiery Swiftfoot</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Scout</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Summer Mana
+Time = 1
+Attack = 3
+Defense = 1
+Reactive
+Fiery Swiftfoot can’t be played in combat.</text>
+    </card>
+    <card>
+      <name>Autumn Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Autumn Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Dawn Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Dawn Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Dusk Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Dusk Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Midnight Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Midnight Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Noon Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Noon Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Spring Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Spring Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Summer Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Summer Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Winter Devotee</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Winter Mana
+Time = 2
+Attack = 2
+Defense = 2</text>
+    </card>
+    <card>
+      <name>Restoration</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Spring Mana
+Return target card from your discard pile to your hand.</text>
+    </card>
+    <card>
+      <name>Mystify</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 2 Midnight Mana
+Reactive
+Put target card or ability on the stack into its owner’s discard pile. (Copies and abilities just disappear.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Research</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Midnight Mana
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Wolf Rider</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Wolf</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Winter Mana, 1 Dusk Mana
+Time = 1
+Attack = 2
+Defense = 2
+Other Wolf followers you control get +1 Defense and +1 Time.</text>
+    </card>
+    <card>
+      <name>Winter Wolf</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Wolf</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Winter Mana
+Time = 1
+Attack = 3
+Defense = 2
+Whenever Winter Wolf attacks, tap target follower you don’t control.</text>
+    </card>
+    <card>
+      <name>Wolf Cub</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Wolf</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Dusk Mana
+Time = 1
+Attack = 1
+Defense = 1
+Whenever Wolf Cub attacks, another target Wolf you control gets +1 Attack until end of turn.</text>
+    </card>
+    <card>
+      <name>Winged Wolf</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Wolf</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana, 1 Dusk Mana
+Time = 1
+Attack = 2
+Defense = 3
+Flying
+Restriction = 2x</text>
+    </card>
+    <card>
+      <name>Finned Wolf</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Wolf</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana, 1 Dusk Mana
+Time = 1
+Attack = 2
+Defense = 3
+Swimming
+Restriction = 2x</text>
+    </card>
+    <card>
+      <name>Puremind</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = X Mana, X Mana, X Mana, 4 Midnight Mana
+When Puremind enters, choose up to X —
+• Follower.
+• Asset.
+• Action.
+You may play cards of the chosen types from your hand without paying their costs.</text>
+    </card>
+    <card>
+      <name>Thought Core</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+Tap: Add 2 Mana. Spend this mana only to pay X costs. Activate as a react.</text>
+    </card>
+    <card>
+      <name>Ember</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Summer Mana
+Reactive
+Ember deals 2 damage to target follower or player.</text>
+    </card>
+    <card>
+      <name>Swiftmind</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana, 2 Midnight Mana
+You may play cards from your sanctum without paying their costs.</text>
+    </card>
+    <card>
+      <name>Old Cat Lady</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Cat</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Midnight Mana, 1 Autumn Mana
+Time = 1
+Attack = 2
+Defense = 4
+Other Cat followers you control get +1 Attack and +1 Time.</text>
+    </card>
+    <card>
+      <name>Alpha Wolf</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Wolf</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Mana, 1 Winter Mana, 1 Dusk Mana
+Time = 1
+Attack = 1
+Defense = 1
+Alpha Wolf gets +X Attack, +X Defense, and +X Time, where X is the number other Wolf followers you control.</text>
+    </card>
+    <card>
+      <name>Greatwurm</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Wurm</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Mana
+Time = 1
+Attack = 3
+Defense = 3
+Digging</text>
+    </card>
+    <card>
+      <name>Autumn Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Autumn Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Dawn Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Dawn Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+    <card>
+      <name>Dusk Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Dusk Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Midnight Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Midnight Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Noon Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Noon Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Spring Infantry</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Spring Mana
+Time = 1
+Attack = 2
+Defense = 1</text>
+    </card>
+    <card>
+      <name>Summer Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Summer Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Winter Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Winter Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Farsight Feline</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Cat</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Autumn Mana
+Time = 1
+Attack = 3
+Defense = 2
+Truesight</text>
+    </card>
+    <card>
+      <name>Smolder</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana,  1 Summer Mana
+Reactive
+Smolder deals 3 damage to target follower or player.</text>
+    </card>
+    <card>
+      <name>Hallowed Research</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Dusk Mana, 2 Time Essence
+Reactive
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Spring Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Spring Feast to your sanctum as if it was a follower that taps for two Spring mana and has “Destroy Spring Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Autumn Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Autumn Feast to your sanctum as if it was a follower that taps for two Autumn  mana and has “Destroy Autumn Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Summer Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Summer Feast to your sanctum as if it was a follower that taps for two Summer mana and has “Destroy Summer Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Winter Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Winter Feast to your sanctum as if it was a follower that taps for two Winter mana and has “Destroy Winter Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Dawn Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Dawn Feast to your sanctum as if it was a follower that taps for two Dawn mana and has “Destroy Dawn Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Noon Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Noon Feast to your sanctum as if it was a follower that taps for two Noon mana and has “Destroy Noon Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Dusk Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Dusk Feast to your sanctum as if it was a follower that taps for two Dusk mana and has “Destroy Dusk Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Midnight Feast</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play Midnight Feast to your sanctum as if it was a follower that taps for two Midnight mana and has “Destroy Midnight Feast: Draw a card. Activate as an instant.”</text>
+    </card>
+    <card>
+      <name>Shifter</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = X Mana
+Time = 0
+Attack = 0
+Defense = 0
+Shifter enters with X in any combination of +1 Attack counters, +1 Defense counters, and +1 Time counters.</text>
+    </card>
+    <card>
+      <name>Greatdrake</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Drake</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Mana
+Time = 1
+Attack = 3
+Defense = 3
+Flying</text>
+    </card>
+    <card>
+      <name>Greatwhale</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Whale</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Mana
+Time = 1
+Attack = 3
+Defense = 3
+Swimming</text>
+    </card>
+    <card>
+      <name>Avatar of Time</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Avatar</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Spring Mana, 1 Summer Mana, 1 Autumn Mana, 1 Winter Mana, 1 Dawn Mana, 1 Noon Mana, 1 Dusk Mana, 1 Midnight Mana
+Time = 8
+Attack = 8
+Defense = 8
+Timelink
+Avatar of Time enters your sanctum tapped.</text>
+    </card>
+    <card>
+      <name>Revolt</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Noon Mana
+Create two follower Worker tokens with attack 1, defense 1, and time 1.</text>
+    </card>
+    <card>
+      <name>Muster</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Noon Mana
+Create three follower Worker tokens with attack 1, defense 1, and time 1.</text>
+    </card>
+    <card>
+      <name>Taskmaster</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Noon Mana
+Time = 1
+Attack = 1
+Defense = 1
+Follower tokens you control get +1 attack and +1 defense.</text>
+    </card>
+    <card>
+      <name>Friendly Laborer</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Noon Mana
+Time = 1
+Attack = 1
+Defense = 1
+When Friendly Laborer enters your field, create a follower Worker token with attack 1, defense 1, and time 1.</text>
+    </card>
+    <card>
+      <name>Autumn Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Autumn Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Dawn Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Dawn Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Dusk Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Dusk Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+    <card>
+      <name>Midnight Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Midnight Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Noon Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Noon Mana
+Time = 1
+Attack = 3
+Defense = 1
+Skysight</text>
+    </card>
+    <card>
+      <name>Spring Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Spring Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Summer Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Summer Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Winter Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Winter Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Dark Covenant Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Autumn Mana
+Time = 1
+Attack = 1
+Defense = 3
+Landsight
+Whenever you draw a card other than the first card you draw each turn, put a +1 Attack counter on Dark Covenant Miners.</text>
+    </card>
+    <card>
+      <name>Dawn Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Dawn Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Dusk Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Dusk Mana
+Time = 1
+Attack = 3
+Defense = 1
+Seasight</text>
+    </card>
+    <card>
+      <name>Midnight Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Midnight Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+    <card>
+      <name>Noon Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Noon Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+    <card>
+      <name>Spring Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Spring Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+    <card>
+      <name>Summer Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Summer Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+    <card>
+      <name>Winter Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Winter Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+    <card>
+      <name>Sanctified Sphere</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+Destroy a follower in your sanctum: You gain 1 Time Essence.</text>
+    </card>
+    <card>
+      <name>Shrine of Time</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 5 Mana
+Followers get +1 Time.</text>
+    </card>
+    <card>
+      <name>Shrine of Knowledge</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana
+If a player would draw a card, that player draws two cards instead.</text>
+    </card>
+    <card>
+      <name>Champion of the Dark Covenant</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Autumn Mana, 1 Dusk Mana, 1 Midnight Mana
+Time = 1
+Attack = 1
+Defense = 1
+Whenever you draw a card, put your choice of a +1 Attack counter, a +1 Defense counter, or a +1 Time counter on Champion of the Dark Covenant.</text>
+    </card>
+    <card>
+      <name>Autumnal Dark Covenant Pactlord</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Leader</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Autumn Mana
+Time = 1
+Attack = 1
+Defense = 1
+2 Autumn Mana, 2 Dusk Mana, 2 Midnight Mana, Destroy three permanents you control named Autumnal Dark Covenant Pactlord,  Ashen Dark Covenant Pactlord, Shadowy Dark Covenant Pactlord: Search your hand, discard pile, and deck for a card named Avatar of the Dark Covenant, put it into play, then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Ashen Dark Covenant Pactlord</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Leader</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Dusk Mana
+Time = 1
+Attack = 1
+Defense = 1
+2 Autumn Mana, 2 Dusk Mana, 2 Midnight Mana, Destroy three permanents you control named Autumnal Dark Covenant Pactlord,  Ashen Dark Covenant Pactlord, Shadowy Dark Covenant Pactlord: Search your hand, discard pile, and deck for a card named Avatar of the Dark Covenant, put it into play, then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Shadowy Dark Covenant Pactlord</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Leader</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana, 1 Midnight Mana
+Time = 1
+Attack = 1
+Defense = 1
+2 Autumn Mana, 2 Dusk Mana, 2 Midnight Mana, Destroy three permanents you control named Autumnal Dark Covenant Pactlord,  Ashen Dark Covenant Pactlord, Shadowy Dark Covenant Pactlord: Search your hand, discard pile, and deck for a card named Avatar of the Dark Covenant, put it into play, then shuffle your deck.</text>
+    </card>
+    <card>
+      <name>Avatar of the Dark Covenant</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Avatar</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Autumn Mana, 4 Dusk Mana, 4 Midnight Mana
+Time = 12
+Attack = 12
+Defense = 12
+When Avatar of the Dark Covenant enters play, draw seven cards.</text>
+    </card>
+    <card>
+      <name>Bloomgrowth Troll</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Troll</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Spring Mana
+Time = 1
+Attack = 1
+Defense = 4
+2 Spring Mana: Put your choice of a +1 Attack or a +1 Time counter on Bloomgrowth Troll.</text>
+    </card>
+    <card>
+      <name>Dark Covenant Blademaster</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Swordsman</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Dusk Mana
+Time = 1
+Attack = 2
+Defense = 2
+When Dark Covenant Blademaster leaves play, draw a card.</text>
+    </card>
+    <card>
+      <name>Dark Covenant Assassin</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Rogue</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Midnight Mana
+Time = 1
+Attack = 2
+Defense = 2
+When Dark Covenant Assassin enters play, draw a card.</text>
+    </card>
+    <card>
+      <name>Dark Covenant Clergy</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worshipper</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana, 1 Autumn Mana
+Time = 1
+Attack = 2
+Defense = 2
+Whenever Dark Covenant Clergy attacks, draw a card.</text>
+    </card>
+    <card>
+      <name>Dark Covenant Archers</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Archer</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Midnight Mana
+Time = 1
+Attack = 1
+Defense = 3
+Skysight
+Whenever you draw a card other than the first card you draw each turn, put a +1 Attack counter on Dark Covenant Archers.</text>
+    </card>
+    <card>
+      <name>Dark Covenant Fishermen</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Dusk Mana
+Time = 1
+Attack = 1
+Defense = 3
+Seasight
+Whenever you draw a card other than the first card you draw each turn, put a +1 Attack counter on Dark Covenant Fishermen.</text>
+    </card>
+    <card>
+      <name>Autumn Miners</name>
+      <set rarity="common">CYF</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Follower - Human Worker</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Autumn Mana
+Time = 1
+Attack = 3
+Defense = 1
+Landsight</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
